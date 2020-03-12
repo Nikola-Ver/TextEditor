@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.663,=D:\Курсач\AboutUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Курсач\MainUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,=D:\Курсач\SearchWords.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Курсач\Unit1.h=D:\Курсач\SearchUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=D:\Курсач\Buff.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Project4.cbproj=D:\Курсач\TextEditor.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,=D:\Курсач\BaseWords.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Курсач\MainUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=D:\Курсач\Editor.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,=D:\Курсач\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,=D:\Курсач\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Курсач\Unit1.cpp=D:\Курсач\SearchUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Курсач\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.714,=D:\Курсач\InstructionUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,=D:\Курсач\BuffUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,=D:\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Editor.h"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.dfm"/>
+    <File Path="MainUnit.h"/>
+    <File Path="TextEditor.cpp"/>
+    <File Path="SearchWords.h"/>
+    <File Path="Buff.cpp"/>
+    <File Path="Buff.cpp"/>
+    <File Path="Buff.dfm"/>
+    <File Path="Buff.h"/>
+    <File Path="BuffUnit.cpp"/>
+    <File Path="BuffUnit.cpp"/>
+    <File Path="BuffUnit.dfm"/>
+    <File Path="BuffUnit.h"/>
+    <File Path="SearchUnit.cpp"/>
+    <File Path="SearchUnit.cpp"/>
+    <File Path="SearchUnit.h"/>
+    <File Path="BaseWords.h"/>
+    <File Path="InstructionUnit.cpp"/>
+    <File Path="InstructionUnit.cpp"/>
+    <File Path="InstructionUnit.dfm"/>
+    <File Path="InstructionUnit.h"/>
+    <File Path="AboutUnit.cpp"/>
+    <File Path="AboutUnit.cpp"/>
+    <File Path="AboutUnit.dfm"/>
+    <File Path="AboutUnit.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
